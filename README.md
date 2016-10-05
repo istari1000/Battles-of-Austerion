@@ -1,2 +1,0 @@
-# Battles-of-Austerion
-#DsOutForHarambe
