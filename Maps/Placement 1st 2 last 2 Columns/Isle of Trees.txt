@@ -1,0 +1,11 @@
+X Size = 20
+Y Size = 11
+
+X = 3, 4, 16, 17  Y = 0-3, 7-10 River
+X = 5-15, Y = 0,1, 9,10 River
+
+X = 3,4 16,17 Y = 4-6 Bridge
+
+X=9-12, Y 3-8 Forest
+
+Else Grass

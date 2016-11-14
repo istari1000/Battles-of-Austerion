@@ -1,0 +1,6 @@
+X Size = 20
+Y Size = 10
+
+X = Even, Y = Even Forest
+X = Odd Y = Odd Forest
+Else Grass
