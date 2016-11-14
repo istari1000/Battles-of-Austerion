@@ -2,11 +2,11 @@ X Size = 20
 Y Size = 11
 
 X = 14 Y = 4-6 Cobblestone
-
+X = 13 Cobblestone
 X = 14 Y = 1,2, 8,9 City Wall
 X = 14 Y = 0, 7 City Wall Top
 X = 14 Y = 3,10 City Wall Bottom
 
 X > 14 Floor
 
-X < 14 Grass 
+X < 13 Grass 
