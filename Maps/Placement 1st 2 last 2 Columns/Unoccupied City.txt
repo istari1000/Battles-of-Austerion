@@ -10,3 +10,6 @@ X = 14 Y = 3,10 City Wall Bottom
 X > 14 Floor
 
 X < 13 Grass 
+
+Placement: Attacker: X = 0,1
+	   Defender: X = 18,19

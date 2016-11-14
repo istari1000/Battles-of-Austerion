@@ -1,0 +1,21 @@
+X Size = 20
+Y Size = 15
+
+Y = 0-3 Floor
+X = 0 Y = 4 City Wall Left End
+X = 1-6, 14-19 Y = 4 City Wall Left to Right
+X = 7 Y = 4 City Wall Top Right Corner
+X = 13 Y = 4 City Wall Top Left Corner
+X = 7,13 Y = 5,6 City Wall Top to Bottom
+X = 7 Y = 7 City Wall Bottom Left Corner
+X = 13 Y = 7 City Wall Bottom Right Corner
+X = 8 Y = 7 City Wall Bottom Right Corner
+X = 12 Y = 7 City Wall Bottom Left Corner
+X = 8-12 Y = 4-6 Floor
+Y= 13-15 Grass
+Rest Cobblestone
+
+Placement: Attacker Y = 14,15
+	   Defender Y = 0,1
+
+ 
